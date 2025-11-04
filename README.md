@@ -1,2 +1,1 @@
-# try
-My first GitHub repository for learning
+what i done here i will get in vscode
